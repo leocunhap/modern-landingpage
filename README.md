@@ -9,8 +9,7 @@ EN: This is a study project based on a tutorial on Youtube made by [One Bit Code
   
 #### Desktop
 
-![](./img/view-landing.page.png/)
-![](./img/view-landing.page2.png/)
+![](./img/view.png)
 
 
 ## 😊 Tecnologias usadas | Technologies used

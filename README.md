@@ -24,17 +24,17 @@ EN: This is a study project based on a tutorial on Youtube made by [One Bit Code
 - Git e Github
 - Figma
 
-## 🤘🏻 Recursos úteis | Useful resources
+## 💫 Recursos úteis | Useful resources
 
 - [Aula 01](https://youtu.be/Wo7UnH8TYbc)
 - [Aula 02](https://youtu.be/b9Vw_LUyYmc)
 
-## 🤘🏻 Autor | Author
+## 💫 Autor | Author
 
 - GitHub - [@leocunhap](https://github.com/NicoleDPizetta)
 - LinkedIn - [@Léo Cunha](https://www.linkedin.com/in/léoc-cunha/)
 
-## 🤘🏻 Agradecimentos | Acknowledgments
+## 💫 Agradecimentos | Acknowledgments
 
 BR: Agradeço à [One Bit Code](https://www.youtube.com/@OneBitCode) por disponibilizar este vídeo, o resultado ficou incrível. 🤩
 
